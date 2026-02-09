@@ -6,6 +6,8 @@ public class Goodsservice {
 		// TODO Auto-generated method stub
 		System.out.println("inset call.");
 		
+		System.out.println("충돌확인");
+		
 
 	}
 

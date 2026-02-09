@@ -6,8 +6,7 @@ public class GoodsController {
 		// TODO Auto-generated method stub
 		int i = 10;
 		int q = 12;
-
-		int e = 30;
+		int z = 30;
 
 	}
 

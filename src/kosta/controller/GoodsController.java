@@ -7,6 +7,8 @@ public class GoodsController {
 		int i = 10;
 		int q = 12;
 
+		int e = 30;
+
 	}
 
 }

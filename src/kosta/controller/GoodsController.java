@@ -4,6 +4,7 @@ public class GoodsController {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		i8nt i = 10;
 
 	}
 

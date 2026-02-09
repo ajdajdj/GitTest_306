@@ -7,7 +7,11 @@ public class GoodsController {
 		int i = 10;
 		int q = 12;
 		int z = 30;
+
 		System.out.println("시나리오5번");
+
+
+		System.out.println("로컬을 수정하고싶어요");
 
 	}
 

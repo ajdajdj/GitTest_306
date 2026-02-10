@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Edu\교안자료-20260209T014741Z-3-001\Git_Github\Git_Work\GitTest_306\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
